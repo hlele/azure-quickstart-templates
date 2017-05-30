@@ -51,7 +51,8 @@
         "North Europe",
         "South Central US",
         "Southeast Asia",
-        "West Europe"
+        "West Europe",
+        "West Central US"
       ],
       "metadata": {
         "description": "Specify region for your automation account"
